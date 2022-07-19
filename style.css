@@ -1,0 +1,213 @@
+/* STYLE SECTIONING TAGS */
+body {
+ background-color: lightcyan; 
+}
+
+
+/* STYLE TEXT */
+
+h1 {
+  color: navy;
+}
+.me{
+  border-radius: 50%;
+  height:300px;
+  width:300px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#ME{
+  height:80px;
+  width:80px;
+}
+li{
+   display: inline;
+}
+
+.ag{
+  height:400px;
+  width:400px;
+  border: 12px solid #472a0a;
+ 
+}
+
+#portfolio{
+  background-image: url("https://wallpaper.dog/large/20476869.jpg");
+   height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#gallery{
+  background-image: url("https://i.pinimg.com/originals/01/1d/63/011d63c6e3234fb58a43f45a9030bf11.jpg");
+
+   height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+#homeezz{
+  background-image: url("https://static.vecteezy.com/system/resources/previews/001/225/697/original/blue-and-pink-geometric-design-vector.jpg");
+
+   height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#gallerytable{
+   margin-top: 50px;
+  margin-bottom: 200px;
+  margin-right: 200px;
+  margin-left: 200px;
+}
+
+#portfoliotable{
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 160px;
+}
+
+.portfoliodetails{
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 100px;
+  border: 4px solid #FFFFFF;
+  padding-left:40px;
+  padding-right:40px;
+  padding-top:10px;
+  padding-bottom:10px;
+  text-align: center;
+  color: white;
+  height: 400px;
+  width: 600px;
+  font-size: 25px;
+}
+
+#hometable{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 200px;
+  margin-left: 150px;
+  border: 4px solid #FFFFFF;
+  text-align: center;
+  color: white;
+  height: 100px;
+  width: 1000px;
+  font-size: 15px;
+}
+
+.hometabledetails{
+  padding-left:5px;
+  padding-right:5px;
+  padding-top:5px;
+  padding-bottom:5px;
+}
+
+#galdesc{
+  font-size: 40px;
+  color: white;
+  font-weight: 20px ;
+  text-align:center;
+  background-color:black;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.homedesc{
+  font-size: 35px;
+  color: white;
+  font-weight: 20px ;
+  text-align:center;
+  background-color:black;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+#galhead{
+  font-size: 80px;
+  color: white;
+  font-weight: 40px ;
+  text-align:center;
+  background-color:black;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+#porthead{
+  font-size: 80px;
+  color: white;
+  font-weight: 40px ;
+  text-align:center;
+  background-color:black;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+#skillz{
+  font-size:20px;
+}
+
+#portdesc{
+  font-size: 40px;
+  color: white;
+  font-weight: 20px ;
+  text-align:center;
+  background-color:black;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.headerzz{
+  text-align: center;
+  font-family:'Oleo Script', cursive;
+}
+
+#goldenn{
+  color: white;
+}
+
+#silverr{
+  color: white;
+}
+
+button{
+  background-color: #f5278b; 
+  border: 8px dotted #FFFFFF;
+  font-color: white;
+  text-align: center;
+  text-decoration: underline overline;
+  font-size: 16px;
+  font-family:'Oleo Script', cursive;
+}
+
+#navhome{
+  margin-left: 350px;
+  margin-right: 400px;
+}
+
+#navport{
+  margin-left: 445px;
+  margin-right: 500px;
+}
+
+#navgal{
+  margin-left: 445px;
+  margin-right: 500px;
+}
+
+#awesome{
+  color: white;
+  font-size: 80px;
+}
+
+
+/* STYLE IMAGES */
+
+/* STYLE NAV BAR */
